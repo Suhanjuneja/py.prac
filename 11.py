@@ -1,3 +1,5 @@
+#function that print the dict. where keys are nos.
+
 def generate_cubes_dict():
     cubes_dict = {}
     for i in range(1, 6):
